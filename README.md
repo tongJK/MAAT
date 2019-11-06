@@ -52,13 +52,13 @@ sudo apt-get install ubuntu-restricted-extras
 
 ## Example Result
  - Result in Video
- ![video_result_1](./sample_img/sample_imgScreenshot_1.png)
- ![video_result_2](./sample_img/sample_imgScreenshot_2.png)
- ![video_result_3](./sample_img/sample_imgScreenshot_3.png)
+ ![video_result_1](./sample_img/Screenshot_1.png)
+ ![video_result_2](./sample_img/Screenshot_2.png)
+ ![video_result_3](./sample_img/Screenshot_3.png)
  
  
  - Result in Report
-  ![report_result](./sample_img/sample_imgScreenshot_4.png)
+  ![report_result](./sample_img/Screenshot_4.png)
  
  
  # Contact 
