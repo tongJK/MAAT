@@ -51,11 +51,14 @@ sudo apt-get install ubuntu-restricted-extras
 ```
 
 ## Example Result
- - Input
- ![v_one_input](./ImgTools/v_one_input.jpg)
+ - Result in Video
+ ![video_result_1](./sample_img/sample_imgScreenshot_1.png)
+ ![video_result_2](./sample_img/sample_imgScreenshot_2.png)
+ ![video_result_3](./sample_img/sample_imgScreenshot_3.png)
  
- - Output
- ![v_one_result](./ImgTools/v_one_output.jpg)
+ 
+ - Result in Report
+  ![report_result](./sample_img/sample_imgScreenshot_4.png)
  
  
  # Contact 
