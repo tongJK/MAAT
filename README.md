@@ -50,6 +50,14 @@ alias python=python3.6
 sudo apt-get install ubuntu-restricted-extras
 ```
 
+## Example Result
+ - Input
+ ![v_one_input](./ImgTools/v_one_input.jpg)
+ 
+ - Output
+ ![v_one_result](./ImgTools/v_one_output.jpg)
+ 
+ 
  # Contact 
  - E-Mail : 5735512155@psu.ac.th
  - LinkedIn : https://www.linkedin.com/in/jakgri-klabdi-1b5557183/
