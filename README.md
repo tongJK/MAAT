@@ -1,6 +1,13 @@
 # MAAT
 the deception recongnition by image processing
 
+# For Public Ver.
+It's a sample result of this project for show what this project can do and interview how this project work 
+ and for interview my abilities, skill and experience.
+
+
+If you interested in this project, You can contact me.
+
 
 ## Required Files or Directories
 If File or Directory Not Found Error, Please check
@@ -42,4 +49,8 @@ alias python=python3.6
 ```bash
 sudo apt-get install ubuntu-restricted-extras
 ```
+
+ # Contact 
+ - E-Mail : 5735512155@psu.ac.th
+ - LinkedIn : https://www.linkedin.com/in/jakgri-klabdi-1b5557183/
 
