@@ -1,5 +1,5 @@
 # MAAT
-the deception recongnition by image processing
+the deception recognition by image processing
 
 # For Public Ver.
 It's a sample result of this project for show what this project can do and interview how this project work 
